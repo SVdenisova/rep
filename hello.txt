@@ -1,2 +1,8 @@
+
 print ("Hello!")
 print("How do you do?")
+print ("Fine")
+print (Hi)
+print ("Hello!")
+print("How do you do?")
+
