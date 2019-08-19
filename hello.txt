@@ -1,2 +1,2 @@
-print ("Hello!");
-print("How do you do?");
+print ("Hello!")
+print("How do you do?")
